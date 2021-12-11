@@ -1,0 +1,9 @@
+{
+	"icecream": {
+		"prefix": "icecream",
+		"body": [
+			"from icecream import *",
+		],
+		// "description": "Log output to console"
+	}
+}
